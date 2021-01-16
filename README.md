@@ -22,3 +22,5 @@ Esta aplicação foi desenvolvida com objetivos próprios da aprendizagem da lin
   - throw
   - try/catch
 - Refatoração de código
+- Persistir dados no lado do cliente
+  - Utilização do mecanismo Local Storage da Web Storage API
