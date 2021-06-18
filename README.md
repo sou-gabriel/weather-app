@@ -4,7 +4,7 @@
   </a>   
 </div>
 
-# 📌 Weather App
+# ⛈️ Weather App
 
 > Trata-se de uma aplicação web que busca, exibe e persiste informações <br> meteorológicas da cidade buscada.
 
